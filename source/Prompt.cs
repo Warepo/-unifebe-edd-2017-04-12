@@ -1,12 +1,14 @@
-namespace Listing {
+﻿namespace Listing
+{
 
-public class Prompt {
-
-    public static void Main()
+    public class Prompt
     {
-        System.Console.WriteLine("Bem vindo!");
-    }
 
-}
+        public static void Main()
+        {
+            System.Console.WriteLine("Bem vindo!");
+        }
+
+    }
 
 }
